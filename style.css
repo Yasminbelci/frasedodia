@@ -1,0 +1,16 @@
+body{
+    width: 100%;
+margin: auto;
+font-family: '-apple-system' ;
+}
+
+h1{
+    font-family: 'sans-serif';
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+
+}
+
+main{
+    background:#df4111;
+}
